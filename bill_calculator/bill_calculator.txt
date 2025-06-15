@@ -1,0 +1,11 @@
+SIMPLE BILL CALCULATOR
+
+This program helps to calculate the total bill amount based on user input.
+
+Topic Covered:
+- Variables
+- fgets(),printf() and scanf()
+- How to git rid of input buffer
+- Basic arithmetic operation
+
+Output:Final bill amount after calculation.
