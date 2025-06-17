@@ -1,4 +1,4 @@
-# Temperature Converter
+# Weight Converter
 > A simple C program to convert the weight from kilogram to pounds and vice-versa with the help of user input.
 
 ## Topics Covered:
